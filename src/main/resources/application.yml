@@ -5,13 +5,13 @@ spring:
         username: postgres
         password: 12345
 
-spring:
     jpa:
         properties:
             hibernate:
                 jdbc:
                     lob:
                         non_contextual_creation: true
+                        
                 dialect: org.hibernate.dialect.PostgreSQLDialect
                 ddl-auto: update
                 
