@@ -1,0 +1,12 @@
+com\cmas\systems\user\domain\models\UserModel.class
+com\cmas\systems\user\repository\UserRepository.class
+com\cmas\systems\user\config\ProblemConfiguration.class
+com\cmas\systems\user\domain\assembler\UserModelAssembler.class
+com\cmas\systems\user\exceptions\GlobalExceptionHandler.class
+com\cmas\systems\user\config\Instantiation.class
+com\cmas\systems\user\exceptions\UserNotFoundException.class
+com\cmas\systems\user\endpoint\UserController.class
+com\cmas\systems\user\service\UserService.class
+com\cmas\systems\user\UserApplication.class
+com\cmas\systems\user\domain\User.class
+com\cmas\systems\user\exceptions\SomeFieldNotFilledException.class

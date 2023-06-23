@@ -1,0 +1,3 @@
+com\cmas\systems\user\UserApplicationTests.class
+com\cmas\systems\user\endpoint\UserControllerTest.class
+com\cmas\systems\user\service\UserServiceTest.class
