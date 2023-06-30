@@ -20,6 +20,12 @@ import com.cmas.systems.user.domain.assembler.UserModelAssembler;
 import com.cmas.systems.user.domain.models.UserModel;
 import com.cmas.systems.user.service.UserService;
 
+/**
+ * This is the Controller Class of this project, where requests are handled
+ * @see UserService
+ * @author André Salier
+ */
+
 @RestController
 @RequestMapping("/api/v4/user")
 public class UserController {
